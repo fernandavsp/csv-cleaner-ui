@@ -38,12 +38,6 @@ npm run dev
 
 ---
 
-## 📸 Preview
-
-(Adicione prints da interface)
-
----
-
 ## 🎯 Objetivo
 
 Facilitar o uso do sistema CSV Cleaner e evoluir para um produto completo de manipulação de dados.
